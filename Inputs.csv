@@ -1,0 +1,13 @@
+Inputs,Values
+Starting_machines,5
+Number_of_Boxes_for_each_machine,100000
+Machine_Price,1000000
+Box_Price,500
+Box_cost,250
+Scrapping_price,100000
+Max_years,10
+Interest_Rate,0.05
+Demand_Start,100000
+Increasing_Rate,0.2
+adversting_per_box, 20
+Max_years,20
